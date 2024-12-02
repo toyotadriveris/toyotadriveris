@@ -1,5 +1,5 @@
 # About Me:
-Front-end developer
+Hi, my name is Paul Emil and I go around with toyotadriver, I'm a front-end developer.
 
 
 ## Socials:
